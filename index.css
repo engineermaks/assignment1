@@ -1,0 +1,25 @@
+.container{ background-color: azure}
+.containerr {background-color: azure;}
+.pic{ margin-left: 40%;
+    border-radius: 30%; height: 30%;
+    width: 30%;
+    }
+    * {
+        padding: 0;
+        margin: 0;
+    box-sizing: border-box;
+    }
+    .tab-list {
+        --gap: 2rem;
+    }
+    .body{background-color: azure;}
+    .container {
+        padding-inline: 2em;
+        margin-inline: auto;
+        max-width: 80rem;
+    }
+    .containerr {
+        padding-inline: 2em;
+        margin-inline: auto;
+        max-width: 80rem;
+    }
